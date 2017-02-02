@@ -1,6 +1,6 @@
-# Visual Studio Code Extensions
+# Visual Studio Code Extensions for Angular 2
 
-My Favourite VS Code Extensions
+My Favourite VS Code Extensions Angular 2
 
 - [Angular 2 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) by John Papa
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) by steoates
