@@ -6,5 +6,6 @@ My Favourite VS Code Extensions Angular 2
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) by steoates
 - [Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet) by jakethashi
 - [Inline Template Highlighing](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) by Nate Wallace
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) by Steffen Leistner
 
 
